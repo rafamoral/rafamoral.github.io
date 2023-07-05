@@ -1,0 +1,190 @@
+---
+title: "Research"
+---
+
+---------------------
+
+**Main topics**
+
+- Statistical modelling applied to Ecology, Wildlife Management, Agriculture, and Biology in general
+- Computational implementation of statistical models
+- Generalized Linear Mixed Models
+- Bayesian modelling
+
+My [Google Scholar](https://scholar.google.com/citations?user=EG1rynQAAAAJ&hl=en) page
+
+---------------------
+
+**Books**
+
+* **Moral, R.A.**, Godoy, W.A.C. (_in press_) _Modelling Insect Populations in Agricultural Landscapes_, Springer.
+
+* Cordeiro, G.M., Demétrio, C.G.B., **Moral, R.A.** (_in press_) _Modelos Lineares Generalizados e Extensões_, Springer.
+
+---------------------
+
+**Book Chapters**
+
+* Godoy, W.A.C., **Moral, R.A.** (_in press_) Introduction. In _Modelling Insect Populations in Agricultural Landscapes_ (Eds. **Moral, R.A.** and Godoy, W.A.C.), Springer.
+
+* Godoy, W.A.C., **Moral, R.A.** (_in press_) Introducing different modelling scenarios to entomologists. In _Modelling Insect Populations in Agricultural Landscapes_ (Eds. **Moral, R.A.** and Godoy, W.A.C.), Springer.
+
+* Demétrio, C.G.B., Hinde, J., **Moral, R.A.** (2014) Models for overdispersed data in entomology. In _Ecological Modelling Applied to Entomology_ (Eds. Ferreira, C.P. and Godoy, W.A.C.), Springer, p. 219--259.
+
+---------------------
+
+**Pre-Prints**
+
+* Silva, G.P., **Moral, R.A.** Frame by frame completion probability of an NFL pass. https://arxiv.org/abs/2109.08051v1
+
+* Prado, E.B., Parnell, A.C., McJames, N., O'Shea, A., **Moral, R.A.** Semi-parametric Bayesian Additive Regression Trees. https://arxiv.org/abs/2108.07636
+
+* Commins, S., Coutrot, A., Hornberger, M., Spiers, H.J., **Moral, R.A.** Examining individual learning patterns using generalized linear mixed models.
+
+* Mimnagh, N., Ferreira, I.E.P., Verdade, L.M., **Moral, R.A.** Counting Animals We Can't See: The Triple Poisson Model for Scarce Vestige Data. https://arxiv.org/abs/2206.05944
+
+* Palma, G.R., Godoy, W.A.C., Engel, R., Lau, D., Galvan, E., Mason, O., Markham, C., **Moral, R.A.** Pattern-Based Prediction of Population Outbreaks. https://arxiv.org/abs/2209.02346
+
+* Vishwakarma, R., Byrne, L., Connolly, J., **Moral, R.A.**, Brophy, C. Estimation of the non-linear parameter in Generalised Diversity-Interactions models is unaffected by change in structure of the interaction terms. https://arxiv.org/abs/2301.07453
+
+---------------------
+
+**Peer-Reviewed Publications**
+
+* **Moral, R.A.**, Connolly, J., Vishwakarma, R., Byrne, L., Hurley, C., Finn, J., Brophy, C. (_in press_) Going beyond richness: Modelling the BEF relationship using species identity, evenness, richness and species interactions via the DImodels R package. _Methods in Ecology and Evolution_. https://arxiv.org/abs/2212.06052
+
+* Coelho Jr, A., Vieira, J.M., Rugman-Jones, P.F., Silva, R.B.Q., Zucchi, R.A., **Moral, R.A.**, Parra, J.R.P., Stouthamer, R. (_in press_) Reproductive compatibility among sympatric and allopatric isofemale lines of _Trichogramma pretiosum_ Riley, 1879 _Bulletin of Entomological Research_.
+
+* Sarti, D.A., Prado, E.B., Inglis, A., dos Santos, A.A.L., Hurley, C.B., **Moral, R.A.**, Parnell, A.C. (_in press_) Bayesian Additive Regression Trees for Genotype by Environment Interaction Models - AMBARTI. _Annals of Applied Statistics_.
+
+* Urbanus, J., Cosgrove, J., Beltman, J., Elhanati, Y., **Moral, R.A.**, Conrad, C., van Heijst, J.W., Tubeuf, E., Velds, A., Kok, L., Merle, C., Magnusson, J.P., Frisén, J., Fre, S., Walczak, A.M., Mora, T., Jacobs, H., Schumacher, T., Perié, L. (2023) DRAG in situ barcoding reveals an increased number of HSPCs contributing to myelopoiesis with age. _Nature Communications_, 14:2184. https://www.biorxiv.org/content/10.1101/2022.12.06.519273v1
+
+* McDonnell, J., McKenna, T., Yurkonis, K.A., Hennessy, D., **Moral, R.A.**, Brophy, C. (2023) A Mixed Model for Assessing the Effect of Numerous Plant Species Interactions on Grassland Biodiversity and Ecosystem Function Relationships. _Journal of Agricultural, Biological, and Environmental Statistics_, 28, p. 1--19.
+
+* Calvey, B., Maguire, R., **Moral, R.A.**, McHugh-Power, J. (2023) Health Asymmetry as a Predictor of Depressive Symptomatology Over Time Among Older European Adults: a growth curve analysis. _Journal of Psychosomatic Research_, 166, 111158.
+
+* Silva, I.B., McGrane-Corrigan, B., Mason, O., **Moral, R.A.**, Godoy, W.A.C. (2023) Plant-host shift, spatial persistence, and the viability of an invasive insect population. _Ecological Modelling_, 475, 110172.
+
+* Oliveira, J.S., Reigada, C., Diniz, A.J.F., Lara, I.A.R., **Moral, R.A.**, Parra, J.R.P. (2022) Can parasitism by _Tamarixia radiata_ (Hymenoptera: Eulophidae) affect the movement and oviposition behavior of _Diaphorina citri_ (Hemiptera: Psyllidae)? _Journal of Insect Behavior_, 35, p. 183--194.
+
+* Gheler-Costa, C., Sabino-Santos, G., Rosalino, L.M., Amorim, L.S., Maia, F.G.M., **Moral, R.A.**, Ferreira, I.E.P., Figueiredo, L.T.M., Piña, C., Verdade, L.M. (2022) The influence of sugarcane pre-harvest fire on hantavirus prevalence in Neotropical small mammals. _Ecosphere_, 13(9), e4241.
+
+* Bon, V.J., **Moral, R.A.**, Reigada, C. (2022) Influence of intra- and inter-specific competition between egg parasitoids on the effectiveness of biological control of _Euschistus heros_ (Hemiptera: Pentatomidae). _Biological Control_, 170, 104903.
+
+*   **Moral, R.A.**, Diaz-Orueta, U., Oltra-Cucarella, J. (2022) Logistic versus linear regression-based Reliable Change Index: implications for clinical studies with diverse sample sizes. _Psychological Assessment_, 34(8), 731--741.
+
+*   Mimnagh, N., Parnell, A.C., Prado, E.B., **Moral, R.A.** (2022) Bayesian multi-species N-mixture models for unmarked animal communities. _Environmental and Ecological Statistics_, 29, 755--778.
+
+*   **Moral, R.A.**, Chen, Z., Zhang, S., McClean, S., Palma, G.R., Allan, B., Kegel, I. (2022) Profiling Television Watching Behaviour Using Bayesian Hierarchical Joint Models for Time-to-Event and Count Data. _IEEE Access_, 10, p. 113018--113027.
+
+* Cucak, M., Harteveld, D.O.C., DeVetter, L.W., Peever, T.L., **Moral, R.A.**, Mattupalli, C. (2022) Development of a Decision Support System for the Management of Mummy Berry Disease in Northwestern Washington. _Plants_, 11, 2043.
+
+* Silva, D.M., Delalibera Jr, I., Souza, V.H.M., **Moral, R.A.**, Mascarin, G.M. (2022) Production of _Purpureocillium lilacinum_ and _Pochonia chlamydosporia_ by Submerged Liquid Fermentation and Bioactivity against _Tetranychus urticae_ and _Heterodera glycines_ through Seed Inoculation. _Journal of Fungi_, 8, 511.
+
+* Parra, J.R.P., Coelho, A., Cuervo-Rugno, J.B., Garcia, A.G., **Moral, R.A.**, Specht, A., Neto, D.D. (2022) Important pest species of the Spodoptera complex: Biology, thermal requirements and ecological zoning. _Journal of Pest Science_, 95(1), 169--186.
+
+* Kruszynski, C., **Moral, R.A.**, Millan, C., Diniz-Reis, T., Mello, M.A.R., Camargo, P.B. (2022) Diet composition of bats in a human-modified tropical landscape. _Acta Chiropterologica_, 23(2), p. 395--404.
+
+*   Haslett, J., Parnell, A.C., Hinde, J., **Moral, R.A.** (2022) Modelling excess zeros in count data: A new perspective on modelling approaches. _International Statistical Review_, 90(2), p. 216--236.
+
+*   Mainguy, J., **Moral, R.A.** (2021) An improved method for the estimation and comparison of mortality rates in fish from catch-curve data. _North American Journal of Fisheries Management_, 41, p. 1436--1453.
+
+* Duarte, M.M., **Moral, R.A.**, Guillemot, J., Zuim, C.I.F., Potvin, C., Bonat, W.H., Stape, J.L., Brancalion, P.H.S. (2021) High tree diversity enhances light interception in tropical forests. _Journal of Ecology_, 29(7), p. 2597--2611.
+
+*   Oliveira, T.P., **Moral, R.A.** (2021) Global short-term forecasting of COVID-19 cases. _Scientific Reports_, 11, 7555.
+
+* Cucak, M., **Moral, R.A.**, Fealy, R., Lambkin, K., Kildea, S. (2021) Opportunities for an improved potato late blight management in the Republic of Ireland: Field evaluation of the modified Irish Rules crop disease risk prediction model. _Phytopathology_, 111(8), 1349--1360.
+
+*   Rowan, N.J., **Moral, R.A.** (2021) Disposable face masks and reusable face coverings as non-pharmaceutical interventions (NPIs) to prevent transmission of SARS-CoV-2 variants that cause Coronavirus disease (COVID-19): Role of new sustainable NPI design innovations and predictive mathematical modelling. _Science of the Total Environment_, 772, 145530.
+
+* Prado, E.B., **Moral, R.A.**, Parnell, A.C. (2021) Bayesian Additive Regression Trees with Model Trees. _Statistics and Computing_, 31(3), 1--13.
+
+* Lara, I.A.R., **Moral, R.A.**, Taconeli, C.A., Reigada, C., Hinde, L. (2020) A generalized transition model for grouped longitudinal categorical data. _Biometrical Journal_, 62(8), 1837--1858.
+
+*   Prado, E.B., O'Neill, E., Hernández, B., Parnell, A.C., **Moral, R.A.** (2020) Contributed discussion to ``Bayesian regression tree models for causal inference: Regularization, confounding, and heterogeneous effects", by Hahn, P.R., Murray, J.S., Carvalho, C.M., _Bayesian Analysis_, p. 52--54.
+
+* Verdade, L.M., **Moral, R.A.**, Calaboni, A., Amaral, M.V.S.G., Martin, P.S., Amorim, L.S., Gheler-Costa, C., Piña, C.I. (2020) Temporal dynamics of small mammals in Eucalyptus plantations in Southeast Brazil. _Global Ecology and Conservation_, 24, e01217.
+
+*   Oliveira, T.P., **Moral, R.A.**, Zocchi, S.S., Demétrio, C.G.B., Hinde, J. (2020) lcc: An R package to estimate the concordance correlation, Pearson correlation and accuracy over time. _PeerJ_, 8, e9850. (joint first author)
+
+*   **Moral, R.A.**, Hinde, J., Demétrio, C.G.B. (2020) Bivariate residual plots with simulation polygons. _Journal of Computational and Graphical Statistics_, 29(1), p. 203--214.
+
+* Pollard, C.P., Griffin. C.T., **Moral, R.A.**, Duffy, C., Cuche, J., Gaffney, M.T., Fealy, R.M., Fealy, R. (2020) phenModel: A temperature-dependent phenology/voltinism model for a herbivorous insect incorporating facultative diapause and budburst. _Ecological Modelling_, 416, 108910.
+
+* Canassa, F., Esteca, F.C.N., **Moral, R.A.**, Meyling, N.V., Klingen, I., Delalibera, I. (2020) Root inoculation of strawberry with the entomopathogenic fungi _Metarhizium robertsii_ and _Beauveria bassiana_ reduces incidence of the twospotted spider mite and selected insect pests and plant diseases in the field. _Journal of Pest Science_, 93(1), p. 261--274.
+
+* Hollingsworth, R.G., Aristizábal, L.F., Shriner, S., Mascarin, G.M., **Moral, R.A.**, Arthurs, S.P. (2020) Incorporating Beauveria bassiana into an Integrated Pest Management Plan for Coffee Berry Borer in Hawaii. _Frontiers in Sustainable Food Systems, section Crop Biology and Sustainability_, 4, 22.
+
+* Lara, I.A.R., Taconeli, C.A., **Moral, R.A.**, Hinde, J., Voigt, V., Freitas, S.M. (2020) A longitudinal study of sweet orange flowering with grouped count data. _Acta Scientiarum Agronomy_, 42, e43734.
+
+*   **Moral, R.A.**, Hinde, J., Ortega, E.M.M., Demétrio, C.G.B., Godoy, W.A.C. (2020) Location-scale mixed models and goodness-of-fit assessment applied to insect ecology. _Journal of Applied Statistics_, 47(10), p. 1776--1793.
+
+* Cucak, M., Sparks, A., **Moral, R.A.**, Kildea, S., Lambkin, K., Fealy, R. (2019) Evaluation of the 'Irish Rules': The Potato Late Blight forecasting model and its operational use in the Republic of Ireland. _Agronomy_, 9(515), p. 1--24.
+
+* Milléo, J., **Moral, R.A.**, Fernandes, F.S., Godoy, W.A.C. (2019) Resposta funcional comparada entre _Harmonia axyridis_ (Pallas), _Cycloneda sanguinea_ (Linnaeus) e _Hippodamia convergens_ Guerin Meneville (Coleoptera: Coccinellidae) alimentadas com _Brevicoryne brassicae_ (Linnaeus) (Hemiptera: Aphididae). _EntomoBrasilis_, 12(2), p. 70--76. 
+
+* Rabêlo, F.H.S., **Moral, R.A.**, Lavres, J. (2019) Integrating biochemical, morpho-physiological, nutritional, and productive responses to Cd accumulation in Massai grass employed in phytoremediation. _Water, Air, \& Soil Pollution,_ 230, 110.
+
+* Iwanicki, N.S., Pereira, A.A., Botelho, A.B.R.Z., Rezende, J.M., **Moral, R.A.**, Zucchi, M.I., Delalibera Jr., I. (2019) Monitoring of the field application of _M. anisopliae_ in Brazil revealed high molecular diversity of _Metarhizium_ spp in insects, soil and sugarcane roots. _Scientific Reports,_ 9(1), 4443.
+
+* Canassa, F., Tall, S., **Moral, R.A.**, Lara, I.A.R., Delalibera Jr, I., Meyling, N.V. (2019) Effects of bean seed treatment by the entomopathogenic fungi _Metarhizium robertsii_ and _Beauveria bassiana_ on plant growth, spider mite populations and behavior of predatory mite. _Biological Control,_ 132, p. 199--208.
+
+* Fatoretto, M.B., **Moral, R.A.**, Demétrio, C.G.B., Pádua, C.S., Menarin, V., Rojas, V.M.A., D'Alessandro, C.P., Delalibera, I. (2018) Overdispersed fungus germination data: Statistical analysis using R. _Biocontrol Science and Technology,_ 28(11), p. 1034--1053.
+
+* Castro, T., **Moral, R.A.**, Demétrio, C.G.B, Delalibera, I., Klingen, I. (2018) Prediction of sporulation and germination by the spider mite pathogenic fungus _Neozygites floridana_ (Neozygitomycetes: Neozygitales: Neozygitaceae) based on temperature, humidity and time. _Insects,_ 9(69), p. 1--12.
+
+*   **Moral, R.A.**, Hinde, J., Demétrio, C.G.B., Reigada, C., Godoy, W.A.C. (2018) Models for jointly estimating abundances of two unmarked site-associated species subject to imperfect detection. _Journal of Agricultural, Biological, and Environmental Statistics,_ 23, p. 20--38.
+
+* Beloti, V.H., Alves, G.R., **Moral, R.A.**, Demétrio, C.G.B., Yamamoto, P.T. (2018) Acute toxicity of fresh and aged residues of pesticides to the parasitoid _Tamarixia radiata_ and to the HLB-bacteria vector _Diaphorina citri_. _Neotropical Entomology,_ 47, p. 403--411.
+
+* Coelho, A., Milanez, J.M., **Moral, R.A.**, Demétrio, C.G.B., Parra, J.R.P. (2018) Selection of an artificial diet for Laboratory Rearing of _Opogona sacchari_ (Lepidoptera: Tineidae) (Bojer, 1856). _Neotropical Entomology_, 47, p. 199--204.
+
+* Reigada, C., **Moral, R.A.**, Demétrio, C.G.B., Parra, J.R.P. (2018) Cross-crop effects on larval growth, survivorship and fecundity of _Helicoverpa armigera_. _Journal of Pest Science_, 91, p. 121--131.
+
+* Tomaseto, A.F., Miranda, M.P., **Moral, R.A.**, Lara, I.A.R., Fereres, A., Lopes, J.R.S. (2018) Environmental conditions for _Diaphorina citri_ Kuwayama (Hemiptera: Liviidae) take-off. _Journal of Applied Entomology_, 142, p. 104--113.
+
+* Alves, G.R., Beloti, V., Faggioni, K.M., Carvalho, S.A., **Moral, R.A.**, Demétrio, C.G.B., Parra, J.R.P., Yamamoto, P.T. (2018) Does the scion or rootstock of _Citrus_ sp. affect the feeding and biology of _Diaphorina citri_ Kuwayama (Hemiptera: Liviidae)? _Arthropod-Plant Interactions_, 12, p. 77--84.
+
+*   **Moral, R.A.**, Hinde, J. and Demétrio, C.G.B. (2017) Half-normal plots and overdispersed models in R: the hnp package. _Journal of Statistical Software,_ 81, issue 10, p. 1--23.
+
+* Otto, M.S.G., Francisco, J.G., Gonsalez, B.T., Calvo, L.A., Mattos, E.M., Almeida, M., **Moral, R.A.**, Demétrio, C.G.B., Stape, J.L., Oliveira, R.F. (2017) Changes in $\gamma$-aminobutyric acid concentration, gas exchange, and leaf anatomy in _Eucalyptus_ clones under drought stress and rewatering. _Acta Physiologiae Plantarum_, 39:208, p. 1--13.
+
+*   **Moral, R.A.**, Hinde, J., Demétrio, C.G.B., Godoy, W.A.C. and Fernandes, F.S. (2017) Parasitism-mediated prey selectivity in laboratory conditions and implications for biological control. _Basic and Applied Ecology_, 19, p. 67--75.
+
+* Battel, A.P.M.B., **Moral, R.A.**, Rodrigues, C.A., Araújo, M.S. and Godoy, W.A.C. (2017) Reproductive potential of _Chrysoperla externa_ maintained in different cage sizes in laboratory conditions. _Ciência Rural_, 47, e20160381.
+
+* Alexandrino, E.R., Buechley, E.R., Piratelli, A.J., **Moral, R.A.**, Sekercioglu, C.H., Silva, W.R. and Couto, H.T.Z. (2016) Bird sensitivity to disturbance as an indicator of forest patch conditions: An issue in environmental assessments. _Ecological Indicators_, 66, p. 369--381.
+
+* Galindo, L.A., **Moral, R.A.**, Moretti, T.C., Godoy, W.A.C. and Demétrio, C.G.B. (2016) Intraguild predation influences oviposition behavior of blow flies (Diptera: Calliphoridae). _Parasitology Research_, 115, p. 2091--2102.
+
+* Conceschi, M.R., D'Alessandro, C.P., **Moral, R.A.**, Demétrio, C.G.B. and Delalibera Jr., I. (2016) Transmission potential of the entomopathogenic fungi _Isaria fumosorosea_ and _Beauveria bassiana_ from sporulated cadavers of _Diaphorina citri_ and _Toxoptera citricida_ to uninfected _D. citri_ adults. _BioControl_, 61, p. 567--577.
+
+* Guarin-Molina, J.H., Mascarin, G.M., Arthurs, S.P., Humber, R.A., **Moral, R.A.**, Demétrio, C.G.B. and Delalibera Jr., I. (2016) Seasonal prevalence of the insect pathogenic fungus _Colletotrichum nymphaeae_ in Brazilian citrus groves under different chemical pesticide regimes. _Fungal Ecology_, 22, p. 43--51.
+
+* Mascarin, G.M., Guarin-Molina, J.H.; Arthurs, S.P., Humber, R.A., **Moral, R.A.**, Demétrio, C.G.B. and Delalibera Jr., I. (2016) Data on morphological features of mycosis induced by _Colletotrichum nymphaeae_ and _Lecanicillium longisporum_ on citrus orthezia scale. _Data in Brief_, 8, p. 49--51.
+
+*   **Moral, R.A.**, Azevedo, F.C.C. and Verdade, L.M. (2016) The use of sheepdogs in sheep production in southeastern Brazil. _Pastoralism_, 6:18, p. 1--7.
+
+* Castro, T.R., Mayerhofer, J., Enkerli, J., Eilenberg, J., Meyling, N.V., **Moral, R.A.**, Demétrio, C.G.B. and Delalibera Jr., I (2016) Persistence of Brazilian isolates of the entomopathogenic fungi _Metarhizium anisopliae_ and _M. robertsii_ in strawberry crop soil after soil drench application. _Agriculture, Ecosystems \& Environment_, 233, p. 361--369.
+
+* Castro, T.R., Roggia, S., Wekesa, W.W., **Moral, R.A.**, Demétrio, C.G.B., Delalibera Jr., I. and Klingen, I. (2016) The effect of synthetic pesticides and sulfur used in conventional and organically grown strawberry and soybean on _Neozygites floridana_ a natural enemy of spider mites. _Pest Management Science_, 72, p. 1752--1757.
+
+* Piai, D.B., Barbeiro, A., Yonezawa, G.N., Quagliato Jr., R., Claro Neto, S., Chierice, G.O., **Moral, R.A.** and Demétrio, C.G.B. (2016) Phosphoethanolamine and omega-3 in patients with asthma. _International Journal of Clinical and Experimental Medicine,_ 9, p. 18543--18548.
+
+* Beloti, V.H., Alves, G.R., Araújo, D.F.D., Picoli, M.M., **Moral, R.A.**, Demétrio, C.G.B. and Yamamoto, P.T. (2015) Lethal and sublethal effects of insecticides used on citrus, on the ectoparasitoid _Tamarixia radiata_. _Plos One_, 10, e0132128.
+
+*   Macedo, F.C.O., Dziubinska, H., Trebacz, K., Oliveira, R.F. and **Moral, R.A.** (2015) Action potentials in abscisic acid-deficient tomato mutant generated spontaneously and evoked by electrical stimulation. _Acta Physiologiae Plantarum_, 37:207, p. 1--9.
+
+*   Conagin, A., Barbin, D., Demétrio, C.G.B. and **Moral, R.A.** (2015) Analysing (1/125)5^2 fractional factorial designs and some considerations. _Revista Brasileira de Biometria_, 33, p. 471--483.
+
+* Rodrigues, C.A.; Battel, A.P.M.B., Martinelli, N.M. **Moral, R.A.**, Sercundes, R.K. and Godoy, W.A.C. (2014) Dynamics and predation efficiency of _Chrysoperla externa_ (Neuroptera: Chrysopidae) on _Enneothrips flavens_ (Thysanoptera: Thripidae). _The Florida Entomologist_, 97, p. 653--658.
+
+* Moretti, T.C., Coutinho, R.M., **Moral, R.A.**, Ferreira, C.P. and Godoy, W.A.C. (2013) Quantitative and qualitative dynamics of exotic and native blowflies (Diptera: Calliphoridae) with migrations among municipalities. _Community Ecology_, 14, p. 249--257.
+
+* Ribeiro, L.P., Vendramin, J.S., Bicalho, K.U., Andrade, M.S., Fernandes, J.B., **Moral, R.A.**, and Demétrio, C.G.B. (2013) _Annona mucosa_ Jacq. (Annonaceae): A promising source of bioactive compounds against _Sitophilus zeamais_ Mots. (Coleoptera: Curculionidae). _Journal of Stored Products Research_, 55, p. 6--14.
+
+* Castro, T.R., Wekesa, V.W., **Moral, R.A.**, Demétrio, C.G.B. and Delalibera Jr., I. (2013) The effects of photoperiod and light intensity on the sporulation of Brazilian and Norwegian isolates of _Neozygites floridana_. _Journal of Invertebrate Pathology_, 114, p. 230--233.
+
+* Battel, A.P.M.B., **Moral, R.A.** and Godoy, W.A.C. (2012) Modelos matemáticos predador-presa e aplicações ao manejo integrado de pragas. _Oecologia Australis,_ 16, p. 43--62.
+
+* Ferreira, I.E.P., **Moral, R.A.**, Ferreira, C.P. and Godoy, W.A.C. (2012) Modelling fungus dispersal scenarios using cellular automata. _Ecological Informatics_, 14, p. 53--58.

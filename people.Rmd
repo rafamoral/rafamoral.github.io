@@ -1,0 +1,78 @@
+---
+title: "People"
+---
+
+----------------------
+
+<img src="coffee_mill.jpeg" 
+     width="500" 
+     height="350"
+     class = "center"/>
+     
+----------------------
+
+**Post-Doctoral Researchers**
+
+* (2023 -- ongoing) **Dr Niamh Mimnagh**, working on _Predicting the re-emergence of BVD in Irish cattles_
+
+* (2023 -- ongoing) **Prof Idemauro Antonio Rodrigues de Lara**, working on _Transition models for polytomous data_
+
+----------------------
+
+**PhD Researchers**
+
+* (2022 -- ongoing) **André Felipe Berlusco Menezes**, working on _Dynamic generalized linear models_, joint supervision with **Prof Andrew Parnell**
+
+* (2022 -- ongoing) **Sandra Cristina Deodoro** (co-supervision), working on _Machine learning applied to predicting soil features in Ireland from remote sensing_; lead supervisor **Prof Rowan Fealy**
+
+* (2021 -- ongoing) **Luciano Ribeiro Galvão**, working on _Machine learning applied to agricultural trials_
+
+* (2021 -- ongoing) **Gabriel Rodrigues Palma**, working on _Machine learning and machine vision applied to automating animal monitoring systems_, joint supervision with **Prof Charles Markham**
+
+* (2021 -- ongoing) **Conor Hackett** (co-supervision), working on _Modelling forest fires_, lead supervisor **Prof Charles Markham**
+
+* (2021 -- ongoing) **Guilherme Cavicchioli da Silva** (co-supervision), working on _Acoustic monitoring of South American birds_, lead supervisor **Prof Luciano Verdade**
+
+* (2020 -- ongoing) **Darshana Jayakumari**, working on _Diagnostic tools for generalized linear models_
+
+* (2020 -- ongoing) **Blake McGrane-Corrigan**, working on _Mathematical and statistical modelling applied to population dynamics_, joint supervision with **Prof Ollie Mason**
+
+* (2020 -- ongoing) **Jéssica Abonizio Gouvea** (co-supervision), working on _Determining giant anteater demography and population genetics from vestiges_, lead supervisor **Prof Luciano Verdade**
+
+* (2019 -- ongoing) **Alessandra Lemos** (co-supervision), _Fast Bayesian computation methods for gene environment interaction models_, lead supervisor **Prof Andrew Parnell**
+
+* (2019 -- 2023) **Niamh Mimnagh**, working on _Bayesian modelling applied to abundance estimation in animal communities_
+
+* (2019 -- 2022) **Patricia Peres Araripe** (co-supervision), working on _Residual and diagnostic analyses for models with polytomous response variables_, lead supervisor **Prof Idemauro Lara**, joint with **Dr Niamh Cahill**
+
+* (2018 -- 2022) **Estevão Prado** (co-supervision), working on _Generalisations of Bayesian additive regression trees_, lead supervisor **Prof Andrew Parnell**
+
+* (2016 -- 2020) **Maira Blumer Fatoretto** (co-supervision), working on _Hierarchical and joint generalized linear models_, lead supervisor **Prof Clarice Demétrio**, joint with **Prof Caroline Brophy**
+
+----------------------
+
+**MSc Researchers**
+
+* (2020 -- 2022) **Gustavo Pompeu da Silva**, working on _Machine learning applied to sport science_
+
+* (2019 -- ongoing) **Cathal Flood**, working on _Forecasting the emergence of the Pine Weevil in present and future climates_, joint supervision with **Prof Rowan Fealy** and **Prof Christine Griffin**
+
+----------------------
+
+**Undergraduate Researchers**
+
+* (2023 -- ongoing) **Rachel McInerney**, working on _Generalized linear mixed models applied to ecological data on wildlife monitoring_
+
+* (2019 -- 2019) **Gabriel Rodrigues Palma**, working on _Developing an app to predicting pest outbreaks based on time series data_
+
+* (2019 -- 2019) **Stephen Nolan**, working on _Bird song feature extraction_, joint with **Prof Joe Timoney**
+
+----------------------
+
+**Visiting Academics**
+
+* (2023 -- ongoing) **Anna Mara Maciel**, working on _Modelling optimal foraging of ladybugs_, supervised by **Prof Wesley Godoy**, co-supervised by **Prof Caroline Brophy**
+
+* (2023 -- ongoing) **Lucas Canuto**, working on _Modelling host-symbiont dynamics_, supervised by **Prof Wesley Godoy**
+
+* (2022 -- 2022) **Isabella Bueno**, working on _Modelling leaf-cutting ant movement behaviour_, supervised by **Prof Wesley Godoy**

@@ -1,0 +1,25 @@
+---
+title: "Software"
+---
+
+-----------------------
+
+**R Packages**
+
+* **Moral, R.A.**, Hinde, J. and Demétrio, C.G.B. `hnp`: Half-normal plots with simulation envelopes. https://CRAN.R-project.org/package=hnp ![](https://www.r-pkg.org/badges/version/hnp) ![](https://cranlogs.r-pkg.org/badges/grand-total/hnp)
+
+* **Moral, R.A.**, Connolly, J., Brophy, C. `DImodels`: Diversity-Interactions (DI) Models. https://CRAN.R-project.org/package=DImodels ![](https://www.r-pkg.org/badges/version/DImodels) ![](https://cranlogs.r-pkg.org/badges/grand-total/DImodels)
+
+* **Moral, R.A.**, Hinde, J. and Demétrio, C.G.B. `bivrp`: Bivariate residual plots with simulation polygons. https://CRAN.R-project.org/package=bivrp ![](https://www.r-pkg.org/badges/version/bivrp) ![](https://cranlogs.r-pkg.org/badges/grand-total/bivrp)
+
+* **Moral, R.A.**, Demétrio, C.G.B. and Hinde, J. `jointNmix`: Joint N-mixture models for site-associated species. https://CRAN.R-project.org/package=jointNmix ![](https://www.r-pkg.org/badges/version/jointNmix) ![](https://cranlogs.r-pkg.org/badges/grand-total/jointNmix)
+
+* **Moral, R.A.**, Fealy, R. phenModel: Insect phenology model evaluation based on daily temperatures. https://CRAN.R-project.org/package=phenModel ![](https://www.r-pkg.org/badges/version/phenModel) ![](https://cranlogs.r-pkg.org/badges/grand-total/phenModel)
+
+* Oliveira, T.P., **Moral, R.A.**, Zocchi, S.S., Demétrio, C.G.B., Hinde, J. `lcc`: Longitudinal concordance correlation. https://CRAN.R-project.org/package=lcc ![](https://www.r-pkg.org/badges/version/lcc) ![](https://cranlogs.r-pkg.org/badges/grand-total/lcc)
+
+-----------------------
+
+**Python Packages**
+
+* Palma, G.R., **Moral, R.A.** `PyPBP`: Outbreak prediction. https://pypbp-documentation.readthedocs.io/en/latest/

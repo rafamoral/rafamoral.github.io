@@ -1,0 +1,26 @@
+name: "Dr Rafael de Andrade Moral"
+navbar:
+  title: "Home"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "People"
+      href: people.html
+    - text: "Software"
+      href: software.html
+    - text: "Stats Ed"
+      href: statsed.html
+  right:
+    - icon: fa-brands fa-youtube fa-lg
+      href: https://www.youtube.com/theraf1
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/rafamoral
+    - icon: fa-brands fa-github fa-lg
+      href: https://github.com/rafamoral/
+    - icon: fa-regular fa-envelope fa-lg
+      href: mailto:rafael.deandrademoral@mu.ie
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    css: styles.css
