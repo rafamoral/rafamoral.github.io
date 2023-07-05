@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Research</title>
+
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Home</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="people.html">People</a>
+</li>
+<li>
+  <a href="software.html">Software</a>
+</li>
+<li>
+  <a href="statsed.html">Stats Ed</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://www.youtube.com/theraf1">
+    <span class="fa fa-brands fa-youtube fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/rafamoral">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/rafamoral/">
+    <span class="fa fa-brands fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="mailto:rafael.deandrademoral@mu.ie">
+    <span class="fa fa-regular fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Research</h1>
+
+</div>
+
+
+<hr />
+<p><strong>Main topics</strong></p>
+<ul>
+<li>Statistical modelling applied to Ecology, Wildlife Management,
+Agriculture, and Biology in general</li>
+<li>Computational implementation of statistical models</li>
+<li>Generalized Linear Mixed Models</li>
+<li>Bayesian modelling</li>
+</ul>
+<p>My <a
+href="https://scholar.google.com/citations?user=EG1rynQAAAAJ&amp;hl=en">Google
+Scholar</a> page</p>
+<hr />
+<p><strong>Books</strong></p>
+<ul>
+<li><p><strong>Moral, R.A.</strong>, Godoy, W.A.C. (<em>in press</em>)
+<em>Modelling Insect Populations in Agricultural Landscapes</em>,
+Springer.</p></li>
+<li><p>Cordeiro, G.M., Demétrio, C.G.B., <strong>Moral, R.A.</strong>
+(<em>in press</em>) <em>Modelos Lineares Generalizados e Extensões</em>,
+Springer.</p></li>
+</ul>
+<hr />
+<p><strong>Book Chapters</strong></p>
+<ul>
+<li><p>Godoy, W.A.C., <strong>Moral, R.A.</strong> (<em>in press</em>)
+Introduction. In <em>Modelling Insect Populations in Agricultural
+Landscapes</em> (Eds. <strong>Moral, R.A.</strong> and Godoy, W.A.C.),
+Springer.</p></li>
+<li><p>Godoy, W.A.C., <strong>Moral, R.A.</strong> (<em>in press</em>)
+Introducing different modelling scenarios to entomologists. In
+<em>Modelling Insect Populations in Agricultural Landscapes</em> (Eds.
+<strong>Moral, R.A.</strong> and Godoy, W.A.C.), Springer.</p></li>
+<li><p>Demétrio, C.G.B., Hinde, J., <strong>Moral, R.A.</strong> (2014)
+Models for overdispersed data in entomology. In <em>Ecological Modelling
+Applied to Entomology</em> (Eds. Ferreira, C.P. and Godoy, W.A.C.),
+Springer, p. 219–259.</p></li>
+</ul>
+<hr />
+<p><strong>Pre-Prints</strong></p>
+<ul>
+<li><p>Silva, G.P., <strong>Moral, R.A.</strong> Frame by frame
+completion probability of an NFL pass. <a
+href="https://arxiv.org/abs/2109.08051v1"
+class="uri">https://arxiv.org/abs/2109.08051v1</a></p></li>
+<li><p>Prado, E.B., Parnell, A.C., McJames, N., O’Shea, A.,
+<strong>Moral, R.A.</strong> Semi-parametric Bayesian Additive
+Regression Trees. <a href="https://arxiv.org/abs/2108.07636"
+class="uri">https://arxiv.org/abs/2108.07636</a></p></li>
+<li><p>Commins, S., Coutrot, A., Hornberger, M., Spiers, H.J.,
+<strong>Moral, R.A.</strong> Examining individual learning patterns
+using generalized linear mixed models.</p></li>
+<li><p>Mimnagh, N., Ferreira, I.E.P., Verdade, L.M., <strong>Moral,
+R.A.</strong> Counting Animals We Can’t See: The Triple Poisson Model
+for Scarce Vestige Data. <a href="https://arxiv.org/abs/2206.05944"
+class="uri">https://arxiv.org/abs/2206.05944</a></p></li>
+<li><p>Palma, G.R., Godoy, W.A.C., Engel, R., Lau, D., Galvan, E.,
+Mason, O., Markham, C., <strong>Moral, R.A.</strong> Pattern-Based
+Prediction of Population Outbreaks. <a
+href="https://arxiv.org/abs/2209.02346"
+class="uri">https://arxiv.org/abs/2209.02346</a></p></li>
+<li><p>Vishwakarma, R., Byrne, L., Connolly, J., <strong>Moral,
+R.A.</strong>, Brophy, C. Estimation of the non-linear parameter in
+Generalised Diversity-Interactions models is unaffected by change in
+structure of the interaction terms. <a
+href="https://arxiv.org/abs/2301.07453"
+class="uri">https://arxiv.org/abs/2301.07453</a></p></li>
+</ul>
+<hr />
+<p><strong>Peer-Reviewed Publications</strong></p>
+<ul>
+<li><p><strong>Moral, R.A.</strong>, Connolly, J., Vishwakarma, R.,
+Byrne, L., Hurley, C., Finn, J., Brophy, C. (<em>in press</em>) Going
+beyond richness: Modelling the BEF relationship using species identity,
+evenness, richness and species interactions via the DImodels R package.
+<em>Methods in Ecology and Evolution</em>. <a
+href="https://arxiv.org/abs/2212.06052"
+class="uri">https://arxiv.org/abs/2212.06052</a></p></li>
+<li><p>Coelho Jr, A., Vieira, J.M., Rugman-Jones, P.F., Silva, R.B.Q.,
+Zucchi, R.A., <strong>Moral, R.A.</strong>, Parra, J.R.P., Stouthamer,
+R. (<em>in press</em>) Reproductive compatibility among sympatric and
+allopatric isofemale lines of <em>Trichogramma pretiosum</em> Riley,
+1879 <em>Bulletin of Entomological Research</em>.</p></li>
+<li><p>Sarti, D.A., Prado, E.B., Inglis, A., dos Santos, A.A.L., Hurley,
+C.B., <strong>Moral, R.A.</strong>, Parnell, A.C. (<em>in press</em>)
+Bayesian Additive Regression Trees for Genotype by Environment
+Interaction Models - AMBARTI. <em>Annals of Applied
+Statistics</em>.</p></li>
+<li><p>Urbanus, J., Cosgrove, J., Beltman, J., Elhanati, Y.,
+<strong>Moral, R.A.</strong>, Conrad, C., van Heijst, J.W., Tubeuf, E.,
+Velds, A., Kok, L., Merle, C., Magnusson, J.P., Frisén, J., Fre, S.,
+Walczak, A.M., Mora, T., Jacobs, H., Schumacher, T., Perié, L. (2023)
+DRAG in situ barcoding reveals an increased number of HSPCs contributing
+to myelopoiesis with age. <em>Nature Communications</em>, 14:2184. <a
+href="https://www.biorxiv.org/content/10.1101/2022.12.06.519273v1"
+class="uri">https://www.biorxiv.org/content/10.1101/2022.12.06.519273v1</a></p></li>
+<li><p>McDonnell, J., McKenna, T., Yurkonis, K.A., Hennessy, D.,
+<strong>Moral, R.A.</strong>, Brophy, C. (2023) A Mixed Model for
+Assessing the Effect of Numerous Plant Species Interactions on Grassland
+Biodiversity and Ecosystem Function Relationships. <em>Journal of
+Agricultural, Biological, and Environmental Statistics</em>, 28,
+p. 1–19.</p></li>
+<li><p>Calvey, B., Maguire, R., <strong>Moral, R.A.</strong>,
+McHugh-Power, J. (2023) Health Asymmetry as a Predictor of Depressive
+Symptomatology Over Time Among Older European Adults: a growth curve
+analysis. <em>Journal of Psychosomatic Research</em>, 166,
+111158.</p></li>
+<li><p>Silva, I.B., McGrane-Corrigan, B., Mason, O., <strong>Moral,
+R.A.</strong>, Godoy, W.A.C. (2023) Plant-host shift, spatial
+persistence, and the viability of an invasive insect population.
+<em>Ecological Modelling</em>, 475, 110172.</p></li>
+<li><p>Oliveira, J.S., Reigada, C., Diniz, A.J.F., Lara, I.A.R.,
+<strong>Moral, R.A.</strong>, Parra, J.R.P. (2022) Can parasitism by
+<em>Tamarixia radiata</em> (Hymenoptera: Eulophidae) affect the movement
+and oviposition behavior of <em>Diaphorina citri</em> (Hemiptera:
+Psyllidae)? <em>Journal of Insect Behavior</em>, 35,
+p. 183–194.</p></li>
+<li><p>Gheler-Costa, C., Sabino-Santos, G., Rosalino, L.M., Amorim,
+L.S., Maia, F.G.M., <strong>Moral, R.A.</strong>, Ferreira, I.E.P.,
+Figueiredo, L.T.M., Piña, C., Verdade, L.M. (2022) The influence of
+sugarcane pre-harvest fire on hantavirus prevalence in Neotropical small
+mammals. <em>Ecosphere</em>, 13(9), e4241.</p></li>
+<li><p>Bon, V.J., <strong>Moral, R.A.</strong>, Reigada, C. (2022)
+Influence of intra- and inter-specific competition between egg
+parasitoids on the effectiveness of biological control of <em>Euschistus
+heros</em> (Hemiptera: Pentatomidae). <em>Biological Control</em>, 170,
+104903.</p></li>
+<li><p><strong>Moral, R.A.</strong>, Diaz-Orueta, U., Oltra-Cucarella,
+J. (2022) Logistic versus linear regression-based Reliable Change Index:
+implications for clinical studies with diverse sample sizes.
+<em>Psychological Assessment</em>, 34(8), 731–741.</p></li>
+<li><p>Mimnagh, N., Parnell, A.C., Prado, E.B., <strong>Moral,
+R.A.</strong> (2022) Bayesian multi-species N-mixture models for
+unmarked animal communities. <em>Environmental and Ecological
+Statistics</em>, 29, 755–778.</p></li>
+<li><p><strong>Moral, R.A.</strong>, Chen, Z., Zhang, S., McClean, S.,
+Palma, G.R., Allan, B., Kegel, I. (2022) Profiling Television Watching
+Behaviour Using Bayesian Hierarchical Joint Models for Time-to-Event and
+Count Data. <em>IEEE Access</em>, 10, p. 113018–113027.</p></li>
+<li><p>Cucak, M., Harteveld, D.O.C., DeVetter, L.W., Peever, T.L.,
+<strong>Moral, R.A.</strong>, Mattupalli, C. (2022) Development of a
+Decision Support System for the Management of Mummy Berry Disease in
+Northwestern Washington. <em>Plants</em>, 11, 2043.</p></li>
+<li><p>Silva, D.M., Delalibera Jr, I., Souza, V.H.M., <strong>Moral,
+R.A.</strong>, Mascarin, G.M. (2022) Production of <em>Purpureocillium
+lilacinum</em> and <em>Pochonia chlamydosporia</em> by Submerged Liquid
+Fermentation and Bioactivity against <em>Tetranychus urticae</em> and
+<em>Heterodera glycines</em> through Seed Inoculation. <em>Journal of
+Fungi</em>, 8, 511.</p></li>
+<li><p>Parra, J.R.P., Coelho, A., Cuervo-Rugno, J.B., Garcia, A.G.,
+<strong>Moral, R.A.</strong>, Specht, A., Neto, D.D. (2022) Important
+pest species of the Spodoptera complex: Biology, thermal requirements
+and ecological zoning. <em>Journal of Pest Science</em>, 95(1),
+169–186.</p></li>
+<li><p>Kruszynski, C., <strong>Moral, R.A.</strong>, Millan, C.,
+Diniz-Reis, T., Mello, M.A.R., Camargo, P.B. (2022) Diet composition of
+bats in a human-modified tropical landscape. <em>Acta
+Chiropterologica</em>, 23(2), p. 395–404.</p></li>
+<li><p>Haslett, J., Parnell, A.C., Hinde, J., <strong>Moral,
+R.A.</strong> (2022) Modelling excess zeros in count data: A new
+perspective on modelling approaches. <em>International Statistical
+Review</em>, 90(2), p. 216–236.</p></li>
+<li><p>Mainguy, J., <strong>Moral, R.A.</strong> (2021) An improved
+method for the estimation and comparison of mortality rates in fish from
+catch-curve data. <em>North American Journal of Fisheries
+Management</em>, 41, p. 1436–1453.</p></li>
+<li><p>Duarte, M.M., <strong>Moral, R.A.</strong>, Guillemot, J., Zuim,
+C.I.F., Potvin, C., Bonat, W.H., Stape, J.L., Brancalion, P.H.S. (2021)
+High tree diversity enhances light interception in tropical forests.
+<em>Journal of Ecology</em>, 29(7), p. 2597–2611.</p></li>
+<li><p>Oliveira, T.P., <strong>Moral, R.A.</strong> (2021) Global
+short-term forecasting of COVID-19 cases. <em>Scientific Reports</em>,
+11, 7555.</p></li>
+<li><p>Cucak, M., <strong>Moral, R.A.</strong>, Fealy, R., Lambkin, K.,
+Kildea, S. (2021) Opportunities for an improved potato late blight
+management in the Republic of Ireland: Field evaluation of the modified
+Irish Rules crop disease risk prediction model. <em>Phytopathology</em>,
+111(8), 1349–1360.</p></li>
+<li><p>Rowan, N.J., <strong>Moral, R.A.</strong> (2021) Disposable face
+masks and reusable face coverings as non-pharmaceutical interventions
+(NPIs) to prevent transmission of SARS-CoV-2 variants that cause
+Coronavirus disease (COVID-19): Role of new sustainable NPI design
+innovations and predictive mathematical modelling. <em>Science of the
+Total Environment</em>, 772, 145530.</p></li>
+<li><p>Prado, E.B., <strong>Moral, R.A.</strong>, Parnell, A.C. (2021)
+Bayesian Additive Regression Trees with Model Trees. <em>Statistics and
+Computing</em>, 31(3), 1–13.</p></li>
+<li><p>Lara, I.A.R., <strong>Moral, R.A.</strong>, Taconeli, C.A.,
+Reigada, C., Hinde, L. (2020) A generalized transition model for grouped
+longitudinal categorical data. <em>Biometrical Journal</em>, 62(8),
+1837–1858.</p></li>
+<li><p>Prado, E.B., O’Neill, E., Hernández, B., Parnell, A.C.,
+<strong>Moral, R.A.</strong> (2020) Contributed discussion to ``Bayesian
+regression tree models for causal inference: Regularization,
+confounding, and heterogeneous effects”, by Hahn, P.R., Murray, J.S.,
+Carvalho, C.M., <em>Bayesian Analysis</em>, p. 52–54.</p></li>
+<li><p>Verdade, L.M., <strong>Moral, R.A.</strong>, Calaboni, A.,
+Amaral, M.V.S.G., Martin, P.S., Amorim, L.S., Gheler-Costa, C., Piña,
+C.I. (2020) Temporal dynamics of small mammals in Eucalyptus plantations
+in Southeast Brazil. <em>Global Ecology and Conservation</em>, 24,
+e01217.</p></li>
+<li><p>Oliveira, T.P., <strong>Moral, R.A.</strong>, Zocchi, S.S.,
+Demétrio, C.G.B., Hinde, J. (2020) lcc: An R package to estimate the
+concordance correlation, Pearson correlation and accuracy over time.
+<em>PeerJ</em>, 8, e9850. (joint first author)</p></li>
+<li><p><strong>Moral, R.A.</strong>, Hinde, J., Demétrio, C.G.B. (2020)
+Bivariate residual plots with simulation polygons. <em>Journal of
+Computational and Graphical Statistics</em>, 29(1), p. 203–214.</p></li>
+<li><p>Pollard, C.P., Griffin. C.T., <strong>Moral, R.A.</strong>,
+Duffy, C., Cuche, J., Gaffney, M.T., Fealy, R.M., Fealy, R. (2020)
+phenModel: A temperature-dependent phenology/voltinism model for a
+herbivorous insect incorporating facultative diapause and budburst.
+<em>Ecological Modelling</em>, 416, 108910.</p></li>
+<li><p>Canassa, F., Esteca, F.C.N., <strong>Moral, R.A.</strong>,
+Meyling, N.V., Klingen, I., Delalibera, I. (2020) Root inoculation of
+strawberry with the entomopathogenic fungi <em>Metarhizium
+robertsii</em> and <em>Beauveria bassiana</em> reduces incidence of the
+twospotted spider mite and selected insect pests and plant diseases in
+the field. <em>Journal of Pest Science</em>, 93(1), p. 261–274.</p></li>
+<li><p>Hollingsworth, R.G., Aristizábal, L.F., Shriner, S., Mascarin,
+G.M., <strong>Moral, R.A.</strong>, Arthurs, S.P. (2020) Incorporating
+Beauveria bassiana into an Integrated Pest Management Plan for Coffee
+Berry Borer in Hawaii. <em>Frontiers in Sustainable Food Systems,
+section Crop Biology and Sustainability</em>, 4, 22.</p></li>
+<li><p>Lara, I.A.R., Taconeli, C.A., <strong>Moral, R.A.</strong>,
+Hinde, J., Voigt, V., Freitas, S.M. (2020) A longitudinal study of sweet
+orange flowering with grouped count data. <em>Acta Scientiarum
+Agronomy</em>, 42, e43734.</p></li>
+<li><p><strong>Moral, R.A.</strong>, Hinde, J., Ortega, E.M.M.,
+Demétrio, C.G.B., Godoy, W.A.C. (2020) Location-scale mixed models and
+goodness-of-fit assessment applied to insect ecology. <em>Journal of
+Applied Statistics</em>, 47(10), p. 1776–1793.</p></li>
+<li><p>Cucak, M., Sparks, A., <strong>Moral, R.A.</strong>, Kildea, S.,
+Lambkin, K., Fealy, R. (2019) Evaluation of the ‘Irish Rules’: The
+Potato Late Blight forecasting model and its operational use in the
+Republic of Ireland. <em>Agronomy</em>, 9(515), p. 1–24.</p></li>
+<li><p>Milléo, J., <strong>Moral, R.A.</strong>, Fernandes, F.S., Godoy,
+W.A.C. (2019) Resposta funcional comparada entre <em>Harmonia
+axyridis</em> (Pallas), <em>Cycloneda sanguinea</em> (Linnaeus) e
+<em>Hippodamia convergens</em> Guerin Meneville (Coleoptera:
+Coccinellidae) alimentadas com <em>Brevicoryne brassicae</em> (Linnaeus)
+(Hemiptera: Aphididae). <em>EntomoBrasilis</em>, 12(2),
+p. 70–76.</p></li>
+<li><p>Rabêlo, F.H.S., <strong>Moral, R.A.</strong>, Lavres, J. (2019)
+Integrating biochemical, morpho-physiological, nutritional, and
+productive responses to Cd accumulation in Massai grass employed in
+phytoremediation. <em>Water, Air, &amp; Soil Pollution,</em> 230,
+110.</p></li>
+<li><p>Iwanicki, N.S., Pereira, A.A., Botelho, A.B.R.Z., Rezende, J.M.,
+<strong>Moral, R.A.</strong>, Zucchi, M.I., Delalibera Jr., I. (2019)
+Monitoring of the field application of <em>M. anisopliae</em> in Brazil
+revealed high molecular diversity of <em>Metarhizium</em> spp in
+insects, soil and sugarcane roots. <em>Scientific Reports,</em> 9(1),
+4443.</p></li>
+<li><p>Canassa, F., Tall, S., <strong>Moral, R.A.</strong>, Lara,
+I.A.R., Delalibera Jr, I., Meyling, N.V. (2019) Effects of bean seed
+treatment by the entomopathogenic fungi <em>Metarhizium robertsii</em>
+and <em>Beauveria bassiana</em> on plant growth, spider mite populations
+and behavior of predatory mite. <em>Biological Control,</em> 132,
+p. 199–208.</p></li>
+<li><p>Fatoretto, M.B., <strong>Moral, R.A.</strong>, Demétrio, C.G.B.,
+Pádua, C.S., Menarin, V., Rojas, V.M.A., D’Alessandro, C.P., Delalibera,
+I. (2018) Overdispersed fungus germination data: Statistical analysis
+using R. <em>Biocontrol Science and Technology,</em> 28(11),
+p. 1034–1053.</p></li>
+<li><p>Castro, T., <strong>Moral, R.A.</strong>, Demétrio, C.G.B,
+Delalibera, I., Klingen, I. (2018) Prediction of sporulation and
+germination by the spider mite pathogenic fungus <em>Neozygites
+floridana</em> (Neozygitomycetes: Neozygitales: Neozygitaceae) based on
+temperature, humidity and time. <em>Insects,</em> 9(69),
+p. 1–12.</p></li>
+<li><p><strong>Moral, R.A.</strong>, Hinde, J., Demétrio, C.G.B.,
+Reigada, C., Godoy, W.A.C. (2018) Models for jointly estimating
+abundances of two unmarked site-associated species subject to imperfect
+detection. <em>Journal of Agricultural, Biological, and Environmental
+Statistics,</em> 23, p. 20–38.</p></li>
+<li><p>Beloti, V.H., Alves, G.R., <strong>Moral, R.A.</strong>,
+Demétrio, C.G.B., Yamamoto, P.T. (2018) Acute toxicity of fresh and aged
+residues of pesticides to the parasitoid <em>Tamarixia radiata</em> and
+to the HLB-bacteria vector <em>Diaphorina citri</em>. <em>Neotropical
+Entomology,</em> 47, p. 403–411.</p></li>
+<li><p>Coelho, A., Milanez, J.M., <strong>Moral, R.A.</strong>,
+Demétrio, C.G.B., Parra, J.R.P. (2018) Selection of an artificial diet
+for Laboratory Rearing of <em>Opogona sacchari</em> (Lepidoptera:
+Tineidae) (Bojer, 1856). <em>Neotropical Entomology</em>, 47,
+p. 199–204.</p></li>
+<li><p>Reigada, C., <strong>Moral, R.A.</strong>, Demétrio, C.G.B.,
+Parra, J.R.P. (2018) Cross-crop effects on larval growth, survivorship
+and fecundity of <em>Helicoverpa armigera</em>. <em>Journal of Pest
+Science</em>, 91, p. 121–131.</p></li>
+<li><p>Tomaseto, A.F., Miranda, M.P., <strong>Moral, R.A.</strong>,
+Lara, I.A.R., Fereres, A., Lopes, J.R.S. (2018) Environmental conditions
+for <em>Diaphorina citri</em> Kuwayama (Hemiptera: Liviidae) take-off.
+<em>Journal of Applied Entomology</em>, 142, p. 104–113.</p></li>
+<li><p>Alves, G.R., Beloti, V., Faggioni, K.M., Carvalho, S.A.,
+<strong>Moral, R.A.</strong>, Demétrio, C.G.B., Parra, J.R.P., Yamamoto,
+P.T. (2018) Does the scion or rootstock of <em>Citrus</em> sp. affect
+the feeding and biology of <em>Diaphorina citri</em> Kuwayama
+(Hemiptera: Liviidae)? <em>Arthropod-Plant Interactions</em>, 12,
+p. 77–84.</p></li>
+<li><p><strong>Moral, R.A.</strong>, Hinde, J. and Demétrio, C.G.B.
+(2017) Half-normal plots and overdispersed models in R: the hnp package.
+<em>Journal of Statistical Software,</em> 81, issue 10,
+p. 1–23.</p></li>
+<li><p>Otto, M.S.G., Francisco, J.G., Gonsalez, B.T., Calvo, L.A.,
+Mattos, E.M., Almeida, M., <strong>Moral, R.A.</strong>, Demétrio,
+C.G.B., Stape, J.L., Oliveira, R.F. (2017) Changes in <span
+class="math inline">\(\gamma\)</span>-aminobutyric acid concentration,
+gas exchange, and leaf anatomy in <em>Eucalyptus</em> clones under
+drought stress and rewatering. <em>Acta Physiologiae Plantarum</em>,
+39:208, p. 1–13.</p></li>
+<li><p><strong>Moral, R.A.</strong>, Hinde, J., Demétrio, C.G.B., Godoy,
+W.A.C. and Fernandes, F.S. (2017) Parasitism-mediated prey selectivity
+in laboratory conditions and implications for biological control.
+<em>Basic and Applied Ecology</em>, 19, p. 67–75.</p></li>
+<li><p>Battel, A.P.M.B., <strong>Moral, R.A.</strong>, Rodrigues, C.A.,
+Araújo, M.S. and Godoy, W.A.C. (2017) Reproductive potential of
+<em>Chrysoperla externa</em> maintained in different cage sizes in
+laboratory conditions. <em>Ciência Rural</em>, 47, e20160381.</p></li>
+<li><p>Alexandrino, E.R., Buechley, E.R., Piratelli, A.J.,
+<strong>Moral, R.A.</strong>, Sekercioglu, C.H., Silva, W.R. and Couto,
+H.T.Z. (2016) Bird sensitivity to disturbance as an indicator of forest
+patch conditions: An issue in environmental assessments. <em>Ecological
+Indicators</em>, 66, p. 369–381.</p></li>
+<li><p>Galindo, L.A., <strong>Moral, R.A.</strong>, Moretti, T.C.,
+Godoy, W.A.C. and Demétrio, C.G.B. (2016) Intraguild predation
+influences oviposition behavior of blow flies (Diptera: Calliphoridae).
+<em>Parasitology Research</em>, 115, p. 2091–2102.</p></li>
+<li><p>Conceschi, M.R., D’Alessandro, C.P., <strong>Moral,
+R.A.</strong>, Demétrio, C.G.B. and Delalibera Jr., I. (2016)
+Transmission potential of the entomopathogenic fungi <em>Isaria
+fumosorosea</em> and <em>Beauveria bassiana</em> from sporulated
+cadavers of <em>Diaphorina citri</em> and <em>Toxoptera citricida</em>
+to uninfected <em>D. citri</em> adults. <em>BioControl</em>, 61,
+p. 567–577.</p></li>
+<li><p>Guarin-Molina, J.H., Mascarin, G.M., Arthurs, S.P., Humber, R.A.,
+<strong>Moral, R.A.</strong>, Demétrio, C.G.B. and Delalibera Jr., I.
+(2016) Seasonal prevalence of the insect pathogenic fungus
+<em>Colletotrichum nymphaeae</em> in Brazilian citrus groves under
+different chemical pesticide regimes. <em>Fungal Ecology</em>, 22,
+p. 43–51.</p></li>
+<li><p>Mascarin, G.M., Guarin-Molina, J.H.; Arthurs, S.P., Humber, R.A.,
+<strong>Moral, R.A.</strong>, Demétrio, C.G.B. and Delalibera Jr., I.
+(2016) Data on morphological features of mycosis induced by
+<em>Colletotrichum nymphaeae</em> and <em>Lecanicillium longisporum</em>
+on citrus orthezia scale. <em>Data in Brief</em>, 8, p. 49–51.</p></li>
+<li><p><strong>Moral, R.A.</strong>, Azevedo, F.C.C. and Verdade, L.M.
+(2016) The use of sheepdogs in sheep production in southeastern Brazil.
+<em>Pastoralism</em>, 6:18, p. 1–7.</p></li>
+<li><p>Castro, T.R., Mayerhofer, J., Enkerli, J., Eilenberg, J.,
+Meyling, N.V., <strong>Moral, R.A.</strong>, Demétrio, C.G.B. and
+Delalibera Jr., I (2016) Persistence of Brazilian isolates of the
+entomopathogenic fungi <em>Metarhizium anisopliae</em> and <em>M.
+robertsii</em> in strawberry crop soil after soil drench application.
+<em>Agriculture, Ecosystems &amp; Environment</em>, 233,
+p. 361–369.</p></li>
+<li><p>Castro, T.R., Roggia, S., Wekesa, W.W., <strong>Moral,
+R.A.</strong>, Demétrio, C.G.B., Delalibera Jr., I. and Klingen, I.
+(2016) The effect of synthetic pesticides and sulfur used in
+conventional and organically grown strawberry and soybean on
+<em>Neozygites floridana</em> a natural enemy of spider mites. <em>Pest
+Management Science</em>, 72, p. 1752–1757.</p></li>
+<li><p>Piai, D.B., Barbeiro, A., Yonezawa, G.N., Quagliato Jr., R.,
+Claro Neto, S., Chierice, G.O., <strong>Moral, R.A.</strong> and
+Demétrio, C.G.B. (2016) Phosphoethanolamine and omega-3 in patients with
+asthma. <em>International Journal of Clinical and Experimental
+Medicine,</em> 9, p. 18543–18548.</p></li>
+<li><p>Beloti, V.H., Alves, G.R., Araújo, D.F.D., Picoli, M.M.,
+<strong>Moral, R.A.</strong>, Demétrio, C.G.B. and Yamamoto, P.T. (2015)
+Lethal and sublethal effects of insecticides used on citrus, on the
+ectoparasitoid <em>Tamarixia radiata</em>. <em>Plos One</em>, 10,
+e0132128.</p></li>
+<li><p>Macedo, F.C.O., Dziubinska, H., Trebacz, K., Oliveira, R.F. and
+<strong>Moral, R.A.</strong> (2015) Action potentials in abscisic
+acid-deficient tomato mutant generated spontaneously and evoked by
+electrical stimulation. <em>Acta Physiologiae Plantarum</em>, 37:207,
+p. 1–9.</p></li>
+<li><p>Conagin, A., Barbin, D., Demétrio, C.G.B. and <strong>Moral,
+R.A.</strong> (2015) Analysing (1/125)5^2 fractional factorial designs
+and some considerations. <em>Revista Brasileira de Biometria</em>, 33,
+p. 471–483.</p></li>
+<li><p>Rodrigues, C.A.; Battel, A.P.M.B., Martinelli, N.M.
+<strong>Moral, R.A.</strong>, Sercundes, R.K. and Godoy, W.A.C. (2014)
+Dynamics and predation efficiency of <em>Chrysoperla externa</em>
+(Neuroptera: Chrysopidae) on <em>Enneothrips flavens</em> (Thysanoptera:
+Thripidae). <em>The Florida Entomologist</em>, 97, p. 653–658.</p></li>
+<li><p>Moretti, T.C., Coutinho, R.M., <strong>Moral, R.A.</strong>,
+Ferreira, C.P. and Godoy, W.A.C. (2013) Quantitative and qualitative
+dynamics of exotic and native blowflies (Diptera: Calliphoridae) with
+migrations among municipalities. <em>Community Ecology</em>, 14,
+p. 249–257.</p></li>
+<li><p>Ribeiro, L.P., Vendramin, J.S., Bicalho, K.U., Andrade, M.S.,
+Fernandes, J.B., <strong>Moral, R.A.</strong>, and Demétrio, C.G.B.
+(2013) <em>Annona mucosa</em> Jacq. (Annonaceae): A promising source of
+bioactive compounds against <em>Sitophilus zeamais</em> Mots.
+(Coleoptera: Curculionidae). <em>Journal of Stored Products
+Research</em>, 55, p. 6–14.</p></li>
+<li><p>Castro, T.R., Wekesa, V.W., <strong>Moral, R.A.</strong>,
+Demétrio, C.G.B. and Delalibera Jr., I. (2013) The effects of
+photoperiod and light intensity on the sporulation of Brazilian and
+Norwegian isolates of <em>Neozygites floridana</em>. <em>Journal of
+Invertebrate Pathology</em>, 114, p. 230–233.</p></li>
+<li><p>Battel, A.P.M.B., <strong>Moral, R.A.</strong> and Godoy, W.A.C.
+(2012) Modelos matemáticos predador-presa e aplicações ao manejo
+integrado de pragas. <em>Oecologia Australis,</em> 16,
+p. 43–62.</p></li>
+<li><p>Ferreira, I.E.P., <strong>Moral, R.A.</strong>, Ferreira, C.P.
+and Godoy, W.A.C. (2012) Modelling fungus dispersal scenarios using
+cellular automata. <em>Ecological Informatics</em>, 14,
+p. 53–58.</p></li>
+</ul>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
